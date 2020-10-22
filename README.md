@@ -5,4 +5,4 @@ There are also example output files for the Seasonal Budget reports to demonstra
 
 Simple instructions are included in the generator workbook and it is designed to be a very easy-to-use application.
 
-Overall, this program I have written has been able to bring down the lead time for creating these reports from upwards of one week, down to just 15 minutes. 
+Overall, this program I have written has been able to bring down the lead time for creating these reports from upwards of one week, down to just 15-30 minutes. 
